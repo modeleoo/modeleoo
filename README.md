@@ -2,7 +2,7 @@
 - 👀 I’m interested in Data Analysis and Data Science
 - 🌱 I’m currently learning Data Analysis with Python and SQL
 - 💞️ I’m looking to collaborate on Data Analysis Projects
-- 📫 How to reach me oladunni_75@yahoo.co.uk
+- 📫 How to reach me omodele.odutayo@gmail.com
 
 <!---
 modeleoo/modeleoo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
